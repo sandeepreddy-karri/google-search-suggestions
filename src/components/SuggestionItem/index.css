@@ -1,0 +1,11 @@
+/* Write your CSS here */
+
+.suggestion-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.arrow {
+  width: 25px;
+}
